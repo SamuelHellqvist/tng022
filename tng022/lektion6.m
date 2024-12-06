@@ -1,0 +1,2 @@
+load("dcservo.mat");
+systemIdentification;
